@@ -1,0 +1,22 @@
+{
+  "name": "aws-dialogflow-webhook",
+  "version": "0.0.1",
+  "description": "Sample dialogFlow project. Use to test and deploy dialogFlow webhook to AWS Lambda.",
+  "main": "dialogflow.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "dialogFlow",
+    "google",
+    "home",
+    "lambda",
+    "aws",
+    "alexa"
+  ],
+  "author": "shirkalab",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-bot": "^1.1.2"
+  }
+}

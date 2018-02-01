@@ -1,0 +1,24 @@
+{
+  "id": "2c34cf44-4d84-4b2c-86c5-a3ce4026c3ad",
+  "timestamp": "2018-01-05T10:42:44.612Z",
+  "lang": "fr",
+  "result": {
+    "source": "agent",
+    "resolvedQuery": "hello",
+    "action": "hello.world",
+    "actionIncomplete": false,
+    "parameters": {},
+    "contexts": [],
+    "fulfillment": {
+      "speech": "",
+      "messages": [
+        {
+          "type": 0,
+          "speech": ""
+        }
+      ]
+    },
+    "score": 1
+  },
+  "sessionId": "d3b92731-f643-4677-b57f-7d6c20c1f022"
+}
